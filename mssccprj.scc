@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[winArchive.csproj]
+SCC_Aux_Path = "C:\SourceSafe"
+SCC_Project_Name = "$/Failure/winArchive.root/winArchive", QNEAAAAA
+
+[winArchive.sln]
+SCC_Aux_Path = "C:\SourceSafe"
+SCC_Project_Name = "$/Failure/winArchive.root/winArchive", QNEAAAAA
